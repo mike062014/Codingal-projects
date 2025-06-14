@@ -1,0 +1,22 @@
+<html>
+    <head> 
+          <title>Html elements</title>
+    </head>
+    <body>
+        <h1> Codingal </h1>
+        <h2> Codingal </h2>
+        <h3> Codingal </h3>
+        <h4> Codingal </h4>
+        <h5> Codingal </h5>
+        <h6> Codingal </h6>
+        <p> Codingal classes are nice and easy to understand. </p>
+        <sub>2</sub>3<br>
+        <sup>3</sup>2<br>
+        <b>BOLD</b><br>
+        <i> IT </i><br>
+        <em> Emphasis</em><br>
+        <mark> MARKED</mark><br>
+        <del> Crossed out</del>
+        
+    </body>
+</html>
